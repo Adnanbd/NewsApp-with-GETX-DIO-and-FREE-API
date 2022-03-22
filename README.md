@@ -1,16 +1,31 @@
-# getx_dio_sample_project
+<p align="center">
+  <a href="https://flutter.io/">
+    <img src="https://user-images.githubusercontent.com/66549486/159462716-ae6b66a3-d801-426c-8f5f-7576cff4fa18.png" alt="Logo" width=800 height=480>
+  </a>
+  <h2 align="center">News App with GETX, DIO and Free API</h2>
 
-A new Flutter project.
+  <p align="center">
+    :heart: Best project to practice GETX and DIO with REST API :heart:
+  </p>
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Quick start
 
-A few resources to get you started if this is your first Flutter project:
+This is a normal flutter app. You should follow the instructions in the [official documentation](https://flutter.io/docs/get-started/install).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Creators
+
+**Md. Shoeb Adnan**
+
+- <https://github.com/Adnanbd>
+
+
+
+## Thanks
+
+Thanks to all contributors and their support:
+
+Enjoy :metal:
