@@ -14,6 +14,15 @@
 
 This is a normal flutter app. You should follow the instructions in the [official documentation](https://flutter.io/docs/get-started/install).
 
+## Screenshots
+
+
+
+| News Headline  | Search News |
+| ------------- | ------------- |
+|  <img src="https://user-images.githubusercontent.com/66549486/159466070-e441c7a5-6f67-4699-8a97-3566d1243132.png" alt="Logo" width=400>  | <img src="https://user-images.githubusercontent.com/66549486/159466063-bc349eaa-d928-44a0-bf58-cc5511c339b7.png" alt="Logo" width=400> |
+
+
 ## Packages Used
 
 
