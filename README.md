@@ -34,7 +34,7 @@ This is a normal flutter app. You should follow the instructions in the [officia
 (For customizable set of loading animations)
 ## API
 
-Create a account and get a free APIKEY:
+Create an account and get a free APIKEY:
 * [News API](https://newsapi.org/)
 
 
