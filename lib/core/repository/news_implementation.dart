@@ -19,13 +19,13 @@ class NewsImpl implements NewsRepo {
     // TODO: implement getNewsHeadline
 
     try {
-      print("Start=>");
+
       final response =
           await _httpService.getReq("/v2/top-headlines?country=us");
-      print("Mid=>");
+  
       final parsedResponse = News.fromJson(response.data);
-      print(parsedResponse.articles);
-      print("success");
+
+    
 
       return parsedResponse.articles;
     } on Exception catch (e) {

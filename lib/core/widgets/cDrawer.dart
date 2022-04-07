@@ -19,6 +19,13 @@ getDrwaer() {
             Get.toNamed("/search_news");
           },
         ),
+        ListTile(
+          title: Text("login"),
+          leading: Icon(Icons.search),
+          onTap: () {
+            Get.toNamed("/login");
+          },
+        ),
       ],
     ),
   );
